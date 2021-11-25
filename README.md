@@ -229,9 +229,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Other Useful Links</summary>
 
-  <img align="left" alt="elezermaster's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elezermaster&show_icons=true&hide_border=true" />
+  [https://ods.ai/ Data Science Comunity](https://ods.ai/)
 
 </details>
 
