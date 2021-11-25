@@ -184,6 +184,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezermaster&repo=custom_hooks_context)](https://github.com/elezermaster/custom_hooks_context)
 <p><a href="https://elezermaster.github.io/react-table-pagination-filter-sorted-routing/" target="_blank">🌎 check demo</a></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezermaster&repo=react-json-deploy-to-firebase)](https://github.com/elezermaster/react-json-deploy-to-firebase)
+<p><a href="https://elezermaster.github.io/react-table-pagination-filter-sorted-routing/" target="_blank">🌎 check demo</a></p>
+
 ---
 
 ### 📺 Latest YouTube Videos Wich Blow My Mind
