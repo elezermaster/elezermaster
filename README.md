@@ -194,7 +194,7 @@
 <!-- YOUTUBE:START -->
 - [Drawing tool by face mesh and p5.js🎃 Part 1: Implement facemesh](https://www.youtube.com/watch?v=yrsxDOBL5xM&t=197s)
 - [Real time face detection for p5.js coders.](https://www.youtube.com/watch?v=3yqANLRWGLo)
-- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
+- [Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI](https://www.youtube.com/watch?v=ihJGxFu2u9Q)
 - [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
 - [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
 <!-- YOUTUBE:END -->
