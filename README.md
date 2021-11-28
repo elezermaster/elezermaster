@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React/React-Native fullstack
 - 👯 I’m looking to collaborate with Artificial Intelligence
 - 🤔 I’m looking for help with heaven
-- 💬 Ask me about how to collect crypts on highs
+- 💬 Ask me about how to create amazing mobile web apps
 - 📫 How to reach me: elezermaster@gmail.com
 - ⚡ Fun fact: Flipping through ancient kabbalistic tomes
 - 🥅 2021 Goals: Contribute more crazy projects
