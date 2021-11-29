@@ -190,6 +190,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezermaster&repo=react-json-deploy-to-firebase)](https://github.com/elezermaster/react-json-deploy-to-firebase)
 <p><a href="https://elezermaster.github.io/react-table-pagination-filter-sorted-routing/" target="_blank">🌎 check demo</a></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezermaster&repo=react-auth-firebase-login-register)](https://github.com/elezermaster/react-auth-firebase-login-register)
+<p><a href="https://elezermaster.github.io/react-table-pagination-filter-sorted-routing/" target="_blank">🌎 check demo</a></p>
+
 ---
 
 ### 📺 Latest YouTube Videos Wich Blow My Mind
@@ -200,6 +203,7 @@
 - [Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI](https://www.youtube.com/watch?v=ihJGxFu2u9Q)
 - [Real Time AI Face Landmark Detection in 20 Minutes with Tensorflow.JS and React](https://www.youtube.com/watch?v=7lXYGDVHUNw&t=169s)
 - [Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте](https://www.youtube.com/watch?v=fN25fMQZ2v0)
+- [React Native EU 2021: Shivay Lamba - Machine Learning with React Native using MediaPipe and TFLite](https://www.youtube.com/watch?v=c0k3c0da1UI&t=815s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
