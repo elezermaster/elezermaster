@@ -181,6 +181,9 @@
 
 ### :factory: Check my latest projects
 
+[![Readme Card](https://github.com/elezermaster/whatsapp-clone-firebase)](https://github.com/elezermaster/whatsapp-clone-firebase)
+<p><a href="https://dazzling-allen-dcfe3d.netlify.app/" target="_blank">:zap: check demo :+1:</a></p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elezermaster&repo=react-table-pagination-filter-sorted-routing)](https://github.com/elezermaster/react-table-pagination-filter-sorted-routing)
 <p><a href="https://elezermaster.github.io/react-table-pagination-filter-sorted-routing/" target="_blank">🌎 check demo</a></p>
 
