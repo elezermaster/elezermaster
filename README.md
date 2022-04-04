@@ -1,8 +1,8 @@
 ✨<a href="https://github.com/elezermaster"><img alt="elezermaster" src="https://img.shields.io/badge/-elezermaster-black?style=for-the-badge&logo=github&logoColor=white" /></a>✨
 ### Welcome 👋, I'm Eliezer, Developer, crazy about coding!!
 
-- 🔭 I’m currently working on DNA dataset deep machine learning research
-- 🌱 I’m currently learning React/React-Native fullstack
+- 🔭 I’m currently working on deep machine research
+- 🌱 I’m currently learning hot fullstack
 - 👯 I’m looking to collaborate with Artificial Intelligence
 - 🤔 I’m looking for help with heaven
 - 💬 Ask me about how to create amazing mobile web apps
