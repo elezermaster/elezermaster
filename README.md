@@ -1,10 +1,11 @@
 ✨<a href="https://github.com/elezermaster"><img alt="elezermaster" src="https://img.shields.io/badge/-elezermaster-black?style=for-the-badge&logo=github&logoColor=white" /></a>✨
 ### Welcome 👋, I'm Eliezer, Developer !!
-
+<!--
 - 🔭 I’m currently working on deep machine research
 - 🌱 I’m currently learning NLP 
 - 👯 I’m looking to collaborate with Artificial Intelligence
 - 🤔 I’m looking for help with heaven
+-->
 - 💬 Ask me about how to create amazing mobile & web apps
 - 📫 How to reach me: elezermaster@gmail.com
 - ⚡ Fun fact: Flipping through ancient kabbalistic tomes
